@@ -6,3 +6,7 @@
 * write a comment containing a "quiz" word
 * run the code at any python editor
 * refresh the page and the replay will apper 
+
+#Note:
+* the .ipynb file is for the jupyter notebook
+* the .py file if for PyCharm Editor
